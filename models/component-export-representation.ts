@@ -11,9 +11,6 @@
  * Do not edit the class manually.
  */
 
-
-import { ComponentExportRepresentation } from './component-export-representation';
-
 /**
  * 
  * @export

@@ -2,7 +2,7 @@
   "name": "keycloak-admin-ts-types",
   "version": "26.0.7",
   "description": "OpenAPI client for keycloak-admin-ts-types",
-  "author": "OpenAPI-Generator Contributors",
+  "author": "Aksahy Ranjan <akshay.ranjan@gmail.com>",
   "repository": {"url": "https://github.com/onexay/keycloak-admin-ts-types"},
   "keywords": [
     "axios",
